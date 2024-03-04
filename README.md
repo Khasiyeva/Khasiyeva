@@ -1,4 +1,4 @@
-https://image.lexica.art/md2_webp/6851e8fc-2724-4f31-a8f2-0c0f63c37225
+<img align="right" alt="Coding" width="400" src="https://image.lexica.art/md2_webp/6851e8fc-2724-4f31-a8f2-0c0f63c37225"
 <h1 align="center">Hi 👋, I'm backend developer Khadija 👩🏻‍💻</h1>
 - 🌱 I’m currently learning **Java**
 
